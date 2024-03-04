@@ -80,7 +80,7 @@ class LeanController
     {
 
         Console.Clear();
-        AnsiConsole.Write(new Markup("[u][#800000]https://www.github.com/Xin1337/FerrariPeek[/][/]")
+        AnsiConsole.Write(new Markup("[u][#800000]https://www.github.com/Xin1337/Lean[/][/]")
             .Centered());
         AnsiConsole.Write(new Markup("[u][#DADBDD]Press END to close the program[/][/]")
             .Centered());
